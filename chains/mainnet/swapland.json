@@ -1,0 +1,19 @@
+{
+    "chain_name": "SLC",
+    "coingecko": "SLC",
+    "api": ["tcp://135.181.245.48:1317"],
+    "rpc": ["https://node1.swapland.exchange"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.3",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "swapland",
+    "logo": "/SwapLandLogo.png",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "stake",
+        "symbol": "stake",
+        "exponent": "6",
+        "logo": "/SwapLandLogo.png"
+    }]
+}
